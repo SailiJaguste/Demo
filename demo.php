@@ -1,4 +1,4 @@
 <?php
 echo "This is a demo PHP Page";
-echo "TEST1"
+echo "TEST2"
 ?>
