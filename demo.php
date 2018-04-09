@@ -1,3 +1,3 @@
 <?php
-echo 1gnjhjghjvcghfghg
+echo "1"
 ?>
