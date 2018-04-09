@@ -1,6 +1,3 @@
 <?php
-echo "First Try....";
-echo "Second Try....";
-echo "Third Try....";
-echo "Fourth Try....";
+echo "First Try!";
 ?>
