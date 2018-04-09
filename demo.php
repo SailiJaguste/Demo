@@ -1,4 +1,3 @@
 <?php
-echo "THERE";
-echo "k";
+echo "HELLO WORLD";
 ?>
