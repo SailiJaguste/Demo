@@ -1,3 +1,3 @@
 <?php
-echo "HELLO WORLD INTELLISWIFT";
+echo "HELLO WORLD";
 ?>
